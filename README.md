@@ -1,2 +1,2 @@
-# zys-20.github.io wait a minute
+# zys-20.github.io 
 # Adaptive
